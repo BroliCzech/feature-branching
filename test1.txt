@@ -1,1 +1,2 @@
 prvni radek z prvniho commitu
+druhy commit
